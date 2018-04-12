@@ -49,7 +49,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FlatMapper\FlatMapper.csproj">
+    <ProjectReference Include="..\FlatMapper.csproj">
       <Project>{0A3F69A3-C102-4004-9FAA-F327739C40DC}</Project>
       <Name>FlatMapper</Name>
     </ProjectReference>
