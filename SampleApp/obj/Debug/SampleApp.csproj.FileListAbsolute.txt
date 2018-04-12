@@ -1,0 +1,9 @@
+C:\Users\Nikolay\source\repos\FlatMapper\SampleApp\bin\Debug\SampleApp.exe.config
+C:\Users\Nikolay\source\repos\FlatMapper\SampleApp\bin\Debug\SampleApp.exe
+C:\Users\Nikolay\source\repos\FlatMapper\SampleApp\bin\Debug\SampleApp.pdb
+C:\Users\Nikolay\source\repos\FlatMapper\SampleApp\bin\Debug\FlatMapper.dll
+C:\Users\Nikolay\source\repos\FlatMapper\SampleApp\bin\Debug\FlatMapper.pdb
+C:\Users\Nikolay\source\repos\FlatMapper\SampleApp\obj\Debug\SampleApp.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FlatMapper\SampleApp\obj\Debug\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FlatMapper\SampleApp\obj\Debug\SampleApp.exe
+C:\Users\Nikolay\source\repos\FlatMapper\SampleApp\obj\Debug\SampleApp.pdb

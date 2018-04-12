@@ -10,4 +10,5 @@ namespace FlatMapper
 
         public string TargetProperty { get; set; }
     }
+
 }

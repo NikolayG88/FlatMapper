@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace FlatMapper
 {
-    public class FlatMapper
+    public class Mapper
     {
         public void MapProperties(object source, object target, IEnumerable<PropertyInfo> ignoreList = null)
         {
